@@ -114,9 +114,3 @@ firebase_options.dart
 # Uncomment if you don't want to commit it
 # pubspec.lock
 
-# ====================
-# PROJECT SPECIFIC
-# ====================
-# Work in progress files
-lib/screens/home_page.dart
-
